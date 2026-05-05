@@ -54,4 +54,8 @@ Al momento de hacer el videojuego en godot, a veces no sabíamos en que versión
 
 7) Para resolver conflictos, es necesario etnender en que aprte del programa se enceuntra, saber que función realiza ese segmento del mismo, y después al momento de resovler, la comprensión lógica necesaria.
 
+8) Para un porafolio pondría proyectos personales completos o contribuciones en otros trabajos. Y al tenerlos, las empresas o grupos podrán ver mis trabajos o desempeños anteriores, aumentando la posibilidad de contratación.
 
+9) La posibilidad de compartir codigos fuentes, puede genrar pros y contras, como pros: ayuda a solución de errores, la muestra de reputación si está bienhecho el programa o la ayuda a la comunidad con algún proyecto. Como contra puede ser el plagio o filtraciones de datos privados. Dependiendo del proyecto realizado estaría dispuesto a , posiblemnte sí, lo compartiría, solo si no es posible lucrar con este proyecto.
+
+10) El historial de Git permite almacenar y ver quién hizo cada cambio, lo que ayuda a trabajar en equipo y a no perder errores. Es útil, pero puede generar un poco de presión ya que todos los cambios se alacenan y estan al alncance de todos los contribuidores.
