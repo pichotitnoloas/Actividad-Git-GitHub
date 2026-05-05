@@ -41,31 +41,35 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Conceptos Fundamentales:
-1) Antes y ya habiendo conocido git, no solía trabajar con versiones, o slaente guardaba el archivo, y cuando queria trabajar de nuevo, lo copiaba y trabajaba sobre esa copia. A veces era confuso, y muchas veces se mezclaban archivos y se corrompían. Git entiendo qu eme puede ayudar a solucionar todo esto al estar hecho para cubrir estas árreas.
+1) Antes y ya habiendo conocido git, no solía trabajar con versiones, o solamente guardaba el archivo, y cuando quería trabajar de nuevo, lo copiaba y trabajaba sobre esa copia. A veces era confuso, y muchas veces se mezclaban archivos y se corrompían. Git entiendo que me puede ayudar a solucionar todo esto al estar hecho para cubrir estas áreas.
 
-2) Los commits son imporantes para trabajar de manera más ordenada y fácil. 
+2) Los commits son importantes para trabajar de manera más ordenada y fácil. 
 Al momento de hacer el videojuego en godot, a veces no sabíamos en que versión estábamos trabajando, o cuando no cambiábamos el nombre, se creaban confusiones.
    
-3) Git es un porgrama de control de verones, el cual permite retoceder a versiones pasadas de un proyecto; GitHub encambio es la plataforma de git, la cual funciona apra almacenar estas veriones en la nube, compratir o trabajar en simultanéo con compañeros en los proyectos.
+3) Git es un programa de control de versiones, el cual permite retroceder a versiones pasadas de un proyecto; GitHub encambio es la plataforma de git, la cual funciona para almacenar estas versiones en la nube, compartir o trabajar en simultáneo con compañeros en los proyectos.
 
-4) Trabajar en ramas sirve y mucho para poder experimetnar y conocer agregados o algo realcionado sin comprometer al programa principal, dando la opción de poder unirlos, o disolverlos en cualquier momento. Un ejemplo sería con una página web y querer probar un diseñoo animaciones nuevas, sin la necesidad de modificar la página entera. 
+Aplicación Práctica:
+4) Trabajar en ramas sirve y mucho para poder experimentar y conocer agregados o algo relacionado sin comprometer al programa principal, dando la opción de poder unirlos, o disolverlos en cualquier momento. Un ejemplo sería con una página web y querer probar un diseño o animaciones nuevas, sin la necesidad de modificar la página entera. 
 
-5) La capacidad de trabajar al mismo tiempo de forma remota, da la posibilidad de un trabajo más amplio con personas que no necesariamente estén fisicamnete en un lugar, también aporta na felixbiilad horaria, y un historial que permite ver los cambios realizados sin necesidad de trabajo extra. Pero esto también trae desafíos en relación a un trabajo físico, como la dificultad de la comunicación, sobreescrituras accidentales y la falta de sociabilidad. Esto cambia la forma de trabajar en equipo, dando mayor autonomía personal en el proyecto y comodidad.
+5) La capacidad de trabajar al mismo tiempo de forma remota, da la posibilidad de un trabajo más amplio con personas que no necesariamente estén físicamente en un lugar, también aporta la flexibilidad horaria, y un historial que permite ver los cambios realizados sin necesidad de trabajo extra. Pero esto también trae desafíos en relación a un trabajo físico, como la dificultad de la comunicación, sobreescrituras accidentales y la falta de sociabilidad. Esto cambia la forma de trabajar en equipo, dando mayor autonomía personal en el proyecto y comodidad.
 
-6) Para resolver conflictos, es necesario etnender en que aprte del programa se enceuntra, saber que función realiza ese segmento del mismo, y después al momento de resovler, la comprensión lógica necesaria.
+6) Para resolver conflictos, es necesario entender en que parte del programa se encuentra, saber que función realiza ese segmento del mismo, y después al momento de resolver, la comprensión lógica necesaria.
 
-7) Para un porafolio pondría proyectos personales completos o contribuciones en otros trabajos. Y al tenerlos, las empresas o grupos podrán ver mis trabajos o desempeños anteriores, aumentando la posibilidad de contratación.
+Reflexión Profesional:
+7) Para un portafolio pondría proyectos personales completos o contribuciones en otros trabajos. Y al tenerlos, las empresas o grupos podrán ver mis trabajos o desempeños anteriores, aumentando la posibilidad de contratación.
 
-8) La posibilidad de compartir codigos fuentes, puede genrar pros y contras, como pros: ayuda a solución de errores, la muestra de reputación si está bienhecho el programa o la ayuda a la comunidad con algún proyecto. Como contra puede ser el plagio o filtraciones de datos privados. Dependiendo del proyecto realizado estaría dispuesto a , posiblemnte sí, lo compartiría, solo si no es posible lucrar con este proyecto.
+8) La posibilidad de compartir códigos fuentes, puede generar pros y contras, como pros: ayuda a solución de errores, la muestra de reputación si está bien hecho el programa o la ayuda a la comunidad con algún proyecto. Como contra puede ser el plagio o filtraciones de datos privados. Dependiendo del proyecto realizado estaría dispuesto a , posiblemente sí, lo compartiría, solo si no es posible lucrar con este proyecto.
 
-9) El historial de Git permite almacenar y ver quién hizo cada cambio, lo que ayuda a trabajar en equipo y a no perder errores. Es útil, pero puede generar un poco de presión ya que todos los cambios se alacenan y estan al alncance de todos los contribuidores.
+9) El historial de Git permite almacenar y ver quién hizo cada cambio, lo que ayuda a trabajar en equipo y a no perder errores. Es útil, pero puede generar un poco de presión ya que todos los cambios se almacenan y están al alcance de todos los contribuyentes.
 
-10) El hecho de poder "volver atrás", es algo psitivo porque da la posibilidad de expreimentar nuevas funciones con la tranquilidad de que si algo sale mal, poder vovler a una versión anterior funcional.
+Pensamiento Crítico:
+10) El hecho de poder "volver atrás", es algo positivo porque da la posibilidad de experimentar nuevas funciones con la tranquilidad de que si algo sale mal, poder volver a una versión anterior funcional.
 
-11) Creo que el código autodescriptivo es ideal, pero casi nunca es suficiente. Los comentarios y un buen README ayudan a entender el propósito del proyecto, cómo usarlo y cómo colaborar, cosas que no siempre se ven solo leyendo el código. El balance correcto sería que el código sea claro por sí mismo, pero que la documentación complemente explicando contexto, instrucciones y decisiones importantes.
+11) Creo que el código autodescriptivo es ideal, pero casi nunca es suficiente. Los comentarios y un buen README ayudan a entender el propósito del proyecto, cómo usarlo y cómo colaborar, cosas que no siempre se ven solo leyendo el código. El balance correcto sería que el código sea claro por sí mismo, pero que la documentación complementa explicando contexto, instrucciones y decisiones importantes.
 
 12) Depender de GitHub significa confiar en una empresa privada para alojar nuestro trabajo, así que cambios en sus políticas, precios o disponibilidad podrían afectarnos. Para proyectos educativos y de código abierto, eso puede ser un riesgo si queremos control total sobre nuestro código. Aun así, GitHub sigue siendo muy práctico por su comunidad y herramientas integradas. Alternativas hay varias: GitLab, Bitbucket o incluso alojar repositorios en servidores propios usando Git. No es algo que deba preocupar demasiado, pero sí conviene ser consciente y tener copias de seguridad fuera de cualquier plataforma.
 
+Proyección Futura:
 13) Para mis proyectos escolares usaría Git y GitHub desde el inicio: creo el proyecto en mi computadora, lo inicializo con Git y lo conecto a un repositorio en GitHub. Trabajo en pequeñas partes usando branches y hago commits frecuentes para registrar los cambios. Pruebo antes de unilro al branch principal. Subo los cambios a GitHub durante todo el proceso para tener respaldo y mostrar avances. Al final reviso qeu todo funcione, actualizo la documentación si hace falta y hago un commit final antes de entregar el proyecto final.
     
 14) No sé mucho sobre las funciones avanzadas de GitHub, pero me gustaría probarlas y aprender cómo funcionan. Después del curso quiero seguir practicando y experimentando para ir mejorando.
